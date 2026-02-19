@@ -1,0 +1,15 @@
+{
+  "name": "failing-hybrid-project",
+  "version": "1.0.0",
+  "description": "A project designed to fail CI/CD for testing auto-healing agents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/**"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0"
+  }
+}
