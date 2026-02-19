@@ -6,3 +6,4 @@
 # Line 6
 # Line 7
 def validate_data(data):
+    pass
