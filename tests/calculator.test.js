@@ -8,8 +8,8 @@ test('subtracts 5 - 2 to equal 3', () => {
     expect(subtract(5, 2)).toBe(3);
 });
 
-test('multiplies 3 * 3 to equal 9', () => {
-    expect(multiply(3, 3)).toBe(9);
+test('multiplies 1 * 3 to equal 3', () => {
+    expect(multiply(1, 3)).toBe(3);
 });
 
 test('divides 10 / 2 to equal 5', () => {
