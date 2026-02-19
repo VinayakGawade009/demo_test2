@@ -5,4 +5,4 @@
 # Line 5
 # Line 6
 # Line 7
-def validate_data(data)
+def validate_data(data):
