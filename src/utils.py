@@ -12,4 +12,3 @@ def dummy_func_4():
 
 # Line 13: Buffer
 # Line 14: Buffer
-import os
